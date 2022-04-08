@@ -1,0 +1,40 @@
+
+ Pogoda na dzień: 08.04.2022 Piątek
+ Temperatura pomiędzy:   17.9°C i 32.2°C
+ Parametry                   Dzień                     Noc
+ ______________________________________________________________________
+ Niebo:                      Częściowo słonecznie      Zachmurzenie umiarkowane
+ Prędkość wiatru :           13.0km/h                  13.0km/h
+ Prawdopodobieństwo opadów:  16%                       10%
+
+ Pogoda na dzień: 09.04.2022 Sobota
+ Temperatura pomiędzy:   19.2°C i 31.5°C
+ Parametry                   Dzień                  Noc
+ ______________________________________________________________________
+ Niebo:                      Zachmurzenie duże      Zachmurzenie umiarkowane
+ Prędkość wiatru :           18.5km/h               13.0km/h
+ Prawdopodobieństwo opadów:  25%                    8%
+
+ Pogoda na dzień: 10.04.2022 Niedziela
+ Temperatura pomiędzy:   17.9°C i 31.0°C
+ Parametry                   Dzień                     Noc
+ ______________________________________________________________________
+ Niebo:                      Częściowo słonecznie      Bezchmurnie
+ Prędkość wiatru :           16.7km/h                  11.1km/h
+ Prawdopodobieństwo opadów:  4%                        4%
+
+ Pogoda na dzień: 11.04.2022 Poniedziałek
+ Temperatura pomiędzy:   17.1°C i 33.2°C
+ Parametry                   Dzień           Noc
+ ______________________________________________________________________
+ Niebo:                      Słonecznie      Przeważnie bezchmurnie
+ Prędkość wiatru :           11.1km/h        7.4km/h
+ Prawdopodobieństwo opadów:  1%              2%
+
+ Pogoda na dzień: 12.04.2022 Wtorek
+ Temperatura pomiędzy:   16.4°C i 33.3°C
+ Parametry                   Dzień                      Noc
+ ______________________________________________________________________
+ Niebo:                      Przeważnie słonecznie      Przeważnie bezchmurnie
+ Prędkość wiatru :           11.1km/h                   7.4km/h
+ Prawdopodobieństwo opadów:  1%                         3%

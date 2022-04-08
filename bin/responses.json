@@ -1,0 +1,68 @@
+{
+    "res":[
+        {
+            "query":["how are you", "how you doing"],
+            "response": ["Just doing my thing!", "I am fine!", "Nice!", "I am nice and full of energy"]
+        },
+        {
+            "query":["your name"],
+            "response": ["My name is Karen! I'm mad when u call me \"Ok google\" or \"Jarvis\" :("]
+        },
+        {
+            "query":["my name", "jak się nazywam"],
+            "response":["You are a Spiderman"]
+        }
+    ],
+    "programs":[
+        {
+            "query":["play music","play song","spotify"],
+            "exec": ["..\\other\\Spotify_playlist.vbs"],
+            "response":["Okay, here is your music! Enjoy!"]
+        },
+        {
+            "query":["cs go"],
+            "exec": ["steam://rungameid/730"],
+            "response":["Have a nice time for play!"]
+        },
+        {
+            "query":["rocket league"],
+            "exec":["steam://rungameid/252950"],
+            "response":["Have a nice time for play!"]
+        },
+        {
+            "query":["wiedźmin 3", "witcher 3"],
+            "exec": ["steam://rungameid/292030"],
+            "response":["Have a nice time for play!"]
+        },
+        {
+            "query":["lol", "liga legend"],
+            "exec": ["\"C:\\Riot Games\\Riot Client\\RiotClientServices.exe\" --launch-product=league_of_legends --launch-patchline=live", "C:\\Users\\rynda\\AppData\\Local\\Programs\\Blitz\\Blitz.exe"],
+            "response":["Metal is harder than flash!"]
+        },
+        {
+            "query":["valorant","valo"],
+            "exec":["\"C:\\Riot Games\\Riot Client\\RiotClientServices.exe\" --launch-product=valorant --launch-patchline=live"],
+            "response":["Have a nice time for play!"]
+        },
+        {
+            "query":["cleaner","clean my PC|wyczyść mój komputer"],
+            "exec":["C:\\Program Files\\CCleaner\\CCleaner64.exe"],
+            "response":["Time to clean up your mess"]
+        },
+        {
+            "query":["visual","vs code"],
+            "exec":["C:\\Users\\rynda\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"],
+            "response":["Just write a poem"]
+        },
+        {
+            "query":["mouse","x11"],
+            "exec":["C:\\Program Files (x86)\\FantechGaming\\OemDrv.exe"],
+            "response":["Let's catch this mouse"]
+        },
+        {
+            "query":["ark"],
+            "exec":["steam://rungameid/1599340"],
+            "response":["Have a nice time for play!"]
+        }
+    ]
+}
