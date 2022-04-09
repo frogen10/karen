@@ -1,4 +1,4 @@
-To run application open config.json and set up wolframalpha, accuweater and CityID
+To run application open config.json and set up wolframalpha API-ID, accuweater API-ID and CityID
 
 Then run Setup.py which install all packages and if u want add it to autostart.
 
